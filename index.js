@@ -1,3 +1,0 @@
-# Koyo
-
-Un bot multifuncional
